@@ -1,0 +1,14 @@
+Cual es el nombre del alumno?Tunick
+Cuantas notas posee Tunick?5
+Ingrese la nota num 1:6.5
+Ingrese la nota num 2:7
+Ingrese la nota num 3:8
+Ingrese la nota num 4:8.5
+Ingrese la nota num 5:10
+La nota promedio fue de: 8
+
+Ingrese el caracter S si la condicion del alumno es regular, caso contrario ingr
+ese N:s
+El alumno Tunick ha promocionado la materia.
+
+Presione una tecla para continuar . . .
